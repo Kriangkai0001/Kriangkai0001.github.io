@@ -1,7 +1,7 @@
 # Personal Information
 
 ## a. Full Name
-- Thai: เกรียงไกร ปากไม้  
+- Thai: เกรียงไกร ผักไหม
 - English: Kriangkai Pagmai
 
 ## b. Hobbies
